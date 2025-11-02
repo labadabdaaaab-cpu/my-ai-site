@@ -1,0 +1,13 @@
+body {
+    background: black;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color: lightblue;
+}
+
+ul {
+    list-style-type: decimal;
+}
